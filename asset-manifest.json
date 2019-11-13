@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DesignMinds/static/css/main.b100e6da.chunk.css",
+    "main.js": "/DesignMinds/static/js/main.e16c7023.chunk.js",
+    "main.js.map": "/DesignMinds/static/js/main.e16c7023.chunk.js.map",
+    "runtime-main.js": "/DesignMinds/static/js/runtime-main.cebd32d8.js",
+    "runtime-main.js.map": "/DesignMinds/static/js/runtime-main.cebd32d8.js.map",
+    "static/js/2.5d8e8df6.chunk.js": "/DesignMinds/static/js/2.5d8e8df6.chunk.js",
+    "static/js/2.5d8e8df6.chunk.js.map": "/DesignMinds/static/js/2.5d8e8df6.chunk.js.map",
+    "index.html": "/DesignMinds/index.html",
+    "precache-manifest.e2fff088c25f22225071e6ada2d688f2.js": "/DesignMinds/precache-manifest.e2fff088c25f22225071e6ada2d688f2.js",
+    "service-worker.js": "/DesignMinds/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/DesignMinds/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/DesignMinds/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cebd32d8.js",
+    "static/js/2.5d8e8df6.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.e16c7023.chunk.js"
+  ]
+}
